@@ -1,2 +1,2 @@
-# Revengue_Of_Mythic
-check out this awesome little game xD please don't judge too harshly, I will cry
+# Revenge_Of_Mythic_Build
+Build for COMP305 team project
